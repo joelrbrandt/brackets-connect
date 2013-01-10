@@ -1,0 +1,11 @@
+{
+  "name": "brackets-connect",
+  "version": "0.0.1",
+  "description": "Connect server that runs inside Brackets",
+  "main": "ConnectDomain.js",
+  "author": "Joel Brandt <joelrbrandt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "~2.7.2"
+  }
+}
